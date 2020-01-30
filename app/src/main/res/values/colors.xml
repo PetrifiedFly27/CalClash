@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black42">#201E1F</color>
+    <color name="white1">#E4D8DC</color>
+    <color name="drkgray35">#89BBF1</color>
+    <color name="drkgray36">#ADBEF1</color>
+    <color name="cyan">#7FCAD6</color>
+    <color name="bgrey">#759AAF</color>
+    <color name="divider">#434B57</color>
+    <color name="icons">#828DEE</color>
+    <color name="primary">#3030E4</color>
+    <color name="brown">#554A66</color>
+    <color name="drkred35">#E1BDF0</color>
+    <color name="drkred36">#C975EB</color>
+    <color name="calculator_color">#705C70</color>
+    <color name="lauback">#EC50B5</color>
+    <color name="rectcol">#D62457</color>
+    <color name="rectcol2">#F3061A</color>
+    <color name="rectstr">#E96B67</color>
+    <color name="hoot">#F5B379</color>
+    <color name="grey">#F0DC95</color>
+    <color name="midgrey">#D7F07F</color>
+    <color name="endgrey">#9FF16C</color>
+    <color name="name">#40523F</color>
+</resources>
